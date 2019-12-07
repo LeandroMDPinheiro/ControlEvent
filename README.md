@@ -33,9 +33,6 @@ o Esquematico foi disponibilizado em aula no IFSP - Instituto Federal de Ciencia
 * Pic 18F4520](https://www.alldatasheet.com/view.jsp?Searchword=Pic18f4520&gclid=CjwKCAiAlajvBRB_EiwA4vAqiHpbQ9usqROLfInij2HlrqZqLX8jHX6AsShH-op5E_mqg12qzVncGhoC3jsQAvD_BwE) - Pic Utilizado.
 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
