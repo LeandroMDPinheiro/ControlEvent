@@ -21,7 +21,8 @@ Os testes foram realizados no software proteus 8 professional student license.
 ```
 o Esquematico foi disponibilizado em aula no IFSP - Instituto Federal de Ciencia e Tecnologia Campus Birigui, Materia: MicroControladores; Profº Me. Marcos Roberto Ruybal Bica
 
-![alt text](ImgREADME/layout.png)
+![](https://github.com/LeandroMDPinheiro/ControlEvent/issues/1#issue-534345004)
+https://github.com/LeandroMDPinheiro/ControlEvent/issues/1#issue-534345004
 ```
 
 
