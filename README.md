@@ -30,7 +30,7 @@ o Esquematico foi disponibilizado em aula no IFSP - Instituto Federal de Ciencia
 
 * [MPLAB x IDE](https://www.microchip.com/mplab/mplab-x-ide) - IDE utilizada para desenvolvimento em C.
 * [Proteus](https://www.labcenter.com/downloads/) - Software de Simulação para testes.
-* Pic 18F4520](https://www.alldatasheet.com/view.jsp?Searchword=Pic18f4520&gclid=CjwKCAiAlajvBRB_EiwA4vAqiHpbQ9usqROLfInij2HlrqZqLX8jHX6AsShH-op5E_mqg12qzVncGhoC3jsQAvD_BwE) - Pic Utilizado.
+* [Pic 18F4520](https://www.alldatasheet.com/view.jsp?Searchword=Pic18f4520&gclid=CjwKCAiAlajvBRB_EiwA4vAqiHpbQ9usqROLfInij2HlrqZqLX8jHX6AsShH-op5E_mqg12qzVncGhoC3jsQAvD_BwE)  - Pic Utilizado.
 
 
 
