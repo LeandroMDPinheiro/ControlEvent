@@ -20,11 +20,9 @@ Complementos necessarios para desenvolvimento, teste, execução do projeto.
 Os testes foram realizados no software proteus 8 professional student license.
 ```
 o Esquematico foi disponibilizado em aula no IFSP - Instituto Federal de Ciencia e Tecnologia Campus Birigui, Materia: MicroControladores; Profº Me. Marcos Roberto Ruybal Bica
-
+```
 ![](https://github.com/LeandroMDPinheiro/ControlEvent/issues/1#issue-534345004)
 https://github.com/LeandroMDPinheiro/ControlEvent/issues/1#issue-534345004
-```
-
 
 
 ## Built With
